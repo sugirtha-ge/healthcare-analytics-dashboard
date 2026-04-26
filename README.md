@@ -19,4 +19,4 @@ This dashboard provides insights into healthcare utilization, patient demographi
 - Avg Length of Stay: 4.5 days
 
 ## 📷 Dashboard
-Screenshot 2026-04-24 214557.png
+https://github.com/sugirtha-ge/healthcare-analytics-dashboard/blob/main/healthcare%20analytics_dashboard.png
