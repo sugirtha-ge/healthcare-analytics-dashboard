@@ -4,7 +4,7 @@ This dashboard provides insights into healthcare utilization, patient demographi
 
 ## 🛠️ Tools Used
 - Power BI
-- Excel / SQL (if used)
+- Excel 
 
 ## 📊 Features
 - Encounters by payer analysis
